@@ -1,9 +1,8 @@
 # Sistema de Gestión Escolar (SGE) - Community Edition
 > *Administración académica robusta diseñada para entornos sin conexión (Offline-First).*
 
-![SGE Banner](ruta/a/banner_sge.jpg)
 
-## 🚩 El Problema
+
 Las escuelas en zonas rurales o con conectividad intermitente sufren con sistemas web que requieren internet constante. La gestión en papel (planillas, listas) es lenta, insegura y propensa a pérdidas, afectando la eficiencia administrativa y la experiencia de los estudiantes.
 
 ## 💡 La Solución
