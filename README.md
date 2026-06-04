@@ -31,5 +31,4 @@ Una plataforma de escritorio **Offline-First** que lleva la experiencia de usuar
 Herramienta de gestión privada.
 
 ---
-**Gustavo Matheus**
-Lead Developer
+*Created by [GMProspect](https://github.com/GMProspect)*
