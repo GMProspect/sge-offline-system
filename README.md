@@ -32,4 +32,4 @@ Herramienta de gestión privada.
 
 ---
 **Gustavo Matheus**
-*Desarrollador Full Stack*
+Lead Developer
